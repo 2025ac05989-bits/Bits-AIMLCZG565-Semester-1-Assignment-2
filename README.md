@@ -65,8 +65,7 @@ https://github.com/2025ac05989-bits/Bits-AIMLCZG565-Semester-1-Assignment-2
 
 ## Live Streamlit app
 
-<!-- Replace this line with the share.streamlit.io URL once the app is deployed. -->
-_Deployment link to be added._
+https://bits-telecom-churn.streamlit.app/
 
 ## Models used
 
