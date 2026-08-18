@@ -1,0 +1,7 @@
+Model,Accuracy,AUC,Precision,Recall,F1,MCC
+Gradient Boosting (Ensemble),0.9595,0.919,0.9605,0.7526,0.8439,0.8291
+Decision Tree,0.928,0.851,0.7579,0.7423,0.75,0.708
+Random Forest (Ensemble),0.94,0.9096,0.9524,0.6186,0.75,0.7393
+kNN,0.8861,0.7613,0.8182,0.2784,0.4154,0.4354
+Naive Bayes,0.6027,0.6401,0.2143,0.6495,0.3223,0.1734
+Logistic Regression,0.8636,0.8217,0.5833,0.2165,0.3158,0.2967
